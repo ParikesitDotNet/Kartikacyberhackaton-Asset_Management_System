@@ -23,6 +23,7 @@
     "noFallthroughCasesInSwitch": true,
 
     // Shadcn path requirement
+    "ignoreDeprecations": "6.0",
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
